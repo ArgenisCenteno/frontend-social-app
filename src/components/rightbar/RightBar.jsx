@@ -5,7 +5,7 @@ const RightBar = () => {
     <div className="rightBar">
       <div className="container">
         <div className="item">
-          <span>Suggestions For You</span>
+          <span>Sugerencias para ti</span>
           <div className="user">
             <div className="userInfo">
               <img
@@ -15,8 +15,8 @@ const RightBar = () => {
               <span>Jane Doe</span>
             </div>
             <div className="buttons">
-              <button>follow</button>
-              <button>dismiss</button>
+              <button>Seguir</button>
+              <button>Descartar</button>
             </div>
           </div>
           <div className="user">
@@ -28,13 +28,13 @@ const RightBar = () => {
               <span>Jane Doe</span>
             </div>
             <div className="buttons">
-              <button>follow</button>
-              <button>dismiss</button>
+              <button>Seguir</button>
+              <button>Descartar</button>
             </div>
           </div>
         </div>
         <div className="item">
-          <span>Latest Activities</span>
+          <span>Ultimas actividades</span>
           <div className="user">
             <div className="userInfo">
               <img
@@ -42,7 +42,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Jane Doe</span> Actualizado perfil
               </p>
             </div>
             <span>1 min ago</span>
@@ -54,7 +54,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Jane Doe</span> Actualizado perfil
               </p>
             </div>
             <span>1 min ago</span>
@@ -66,7 +66,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Jane Doe</span> Actualizado perfil
               </p>
             </div>
             <span>1 min ago</span>
@@ -78,7 +78,7 @@ const RightBar = () => {
                 alt=""
               />
               <p>
-                <span>Jane Doe</span> changed their cover picture
+                <span>Jane Doe</span> Actualizado perfil
               </p>
             </div>
             <span>1 min ago</span>
